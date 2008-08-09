@@ -1,4 +1,5 @@
 // c#3 builder by Daniel Steigerwald
+// found here: http://mootools.lighthouseapp.com/projects/2706-mootools/tickets/288
 
 using System;
 using System.Collections.Generic;
