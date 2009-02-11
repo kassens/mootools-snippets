@@ -21,5 +21,5 @@ Number.implement({
 	0.109,
 	21.3
 ].each(function(n){
-	console.log(n.format('.', ',', 3));
+	console.log(n.format('.', ','));
 });
